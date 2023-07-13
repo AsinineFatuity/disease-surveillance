@@ -1,0 +1,38 @@
+{
+  "form:patient_specimen": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "uqVCMYhWKjN2XOIpZATIOw=="
+  },
+  "form:referral_form": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "N/8luJdAbQMoTLebWfOObw=="
+  },
+  "form:contact:community_unit:create": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "IusZ3dygJoRScUwh2mcXMQ=="
+  },
+  "form:contact:community_unit:edit": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "HwwLvLlruTilLVf6ynpuiw=="
+  },
+  "form:contact:health_center:create": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "nLweDDO7Jh02i3MdxAThJQ=="
+  },
+  "form:contact:health_center:edit": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "IyrS3VS+IJUKhIGvm5XCyg=="
+  },
+  "form:contact:moh:create": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "e6QBbJT1xLJSDm/S7jn8QA=="
+  },
+  "form:contact:moh:edit": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "b2xcv2nOI/XecqMuBSfMmA=="
+  },
+  "form:contact:person:create": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "xBXmh2wFEEUlqlT2Lbx4VQ=="
+  },
+  "form:contact:person:edit": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "wckkCwVQP/1zUJS5PL8RZA=="
+  },
+  "form:contact:subcounty_hospital:create": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "CuCcmDnR9DAtTTwqe6trVw=="
+  },
+  "form:contact:subcounty_hospital:edit": {
+    "192-168-0-101.local-ip.medicmobile.org/medic": "m43xcCHYrhRKzRidRfRHHg=="
+  }
+}
