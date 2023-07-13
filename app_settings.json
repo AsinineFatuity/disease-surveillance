@@ -302,7 +302,7 @@
       "id": "subcounty_hospital",
       "name_key": "contact.type.subcounty_hospital",
       "group_key": "contact.type.subcounty_hospital.plural",
-      "create_key": "contact.type.subcounty_hospital.new",
+      "create_key": "Add Sub County Hospital",
       "edit_key": "contact.type.place.edit",
       "icon": "medic-district-hospital",
       "create_form": "form:contact:subcounty_hospital:create",
@@ -312,7 +312,7 @@
       "id": "health_center",
       "name_key": "contact.type.health_center",
       "group_key": "contact.type.health_center.plural",
-      "create_key": "contact.type.health_center.new",
+      "create_key": "Add Health Center",
       "edit_key": "contact.type.place.edit",
       "parents": [
         "subcounty_hospital"
@@ -325,7 +325,7 @@
       "id": "community_unit",
       "name_key": "contact.type.community_unit",
       "group_key": "contact.type.community_unit.plural",
-      "create_key": "contact.type.community_unit.new",
+      "create_key": "Add Community Unit",
       "edit_key": "contact.type.place.edit",
       "parents": [
         "health_center"
