@@ -4,7 +4,8 @@ This is an implementation to automate the workflows for Community Health Personn
 1. Create a new project instance either using docker helper or the old school way
 2. Ensure you can access the instance using the availed means of method 1
 3. Clone this repo to a location of your choice on your machine
-4. Upload the forms, brand, settings and tasks to your local instance using `cht-conf` commands
+   **NB: DO NOT INITIALIZE ANOTHER REPOSITORY ON YOUR MACHINE. JUST CLONE THIS ONE.**
+5. Upload the forms, brand, settings and tasks to your local instance using `cht-conf` commands
 ### To Contribute to this project
 1. Ensure you create a new branch for every new feature you'll work on. All branches should by default begin from `master`.
 2. To achieve step one run `git branch` command ensure you're on `master` by checking the green highlighted branch
